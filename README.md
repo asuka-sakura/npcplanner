@@ -1,5 +1,5 @@
 <h1>What is this?</h1>
-A userlookup & pet template for Neopets Classic, to plan your pets/account/etc. Have questions? Contact me on <a href="https://neopetsclassic.com/userlookup/?user=ali">NPC</a> or Discord (Retro Ali#6666).
+A userlookup & pet template for Neopets Classic, to plan your pets/account/etc. Have questions? Contact me on <a href="https://neopetsclassic.com/userlookup/?user=ali">NPC</a>.
 
 <BR><B>DISCLAIMER:</b> This is purely to plan your account/pets visually & not to scam/mislead users on-site.
 
